@@ -2,4 +2,4 @@
 
 ![Is ok](https://badgen.net/static/status/ok/green?icon=discord)
 
-The best cat in woc.
+Tan oh shit! + one of the best cat in WoC!
