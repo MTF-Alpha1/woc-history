@@ -1,6 +1,6 @@
 # Woc history
 
-*The contents were originally plagiarised from [this](https://docs.google.com/document/d/1tl46reu2qjMYFvGOAILWCUb3HDOgEtGEUzeMOzO0Y40/) google doc.*
+*The contents were originally plagiarised from [this](https://docs.google.com/document/d/1tl46reu2qjMYFvGOAILWCUb3HDOgEtGEUzeMOzO0Y40/) google doc (That google document was written by Food Eater).* 
 
 - [Introduction](Introduction.md)
 - Users
