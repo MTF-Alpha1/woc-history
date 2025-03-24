@@ -18,3 +18,4 @@ and help spread the message of the duck cult.
 - [Mnem](../users/mnem.md) (0.1x dev)
 - [Chris](../users/chris.md) (Member)
 - [Nameunknown](../users/nameunknown.md) (Duck slave)
+  > Editor's note: I really hate the slave guy, he refused to do slavery in my field.
